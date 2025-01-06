@@ -4,7 +4,7 @@ local darker_bg = "#1E1E2F"
 
 return {
   normal = {
-    a = { fg = colors.bg_dark, bg = colors.purple, gui = "bold" },
+    a = { fg = colors.bg_dark, bg = colors.yellow, gui = "bold" },
     b = { fg = colors.fg, bg = colors.bg_dark },
     c = { fg = colors.fg, bg = darker_bg },
   },

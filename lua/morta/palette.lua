@@ -11,6 +11,7 @@ M.colors = {
   red = "#F9778B", -- Soft rose sigil
   blue = "#7aa2f7", -- Calm celestial blue
   gold = "#e0af68", -- Warm divine gold
+  yellow = "#ffff00", -- Matching soft purple
 
   -- Text colors - Gentle contrast
   fg = "#c0caf5", -- Soft ethereal white (from Tokyo Night)
@@ -19,7 +20,8 @@ M.colors = {
 
   -- UI elements - Soft mystical accents
   border = "#29394f", -- Gentle borders
-  cursor = "#bb9af7", -- Matching soft purple
+  --cursor = "#bb9af7", -- Matching soft purple
+  cursor = "#ffff00", -- Matching soft purple
   selection = "#2e3c64", -- Calm selection
 
   -- Syntax highlighting - Soothing divine palette

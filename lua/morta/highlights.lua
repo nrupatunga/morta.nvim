@@ -9,7 +9,7 @@ function M.get_highlights(colors, config)
 
   add_hl("Normal", { fg = colors.fg, bg = config.transparent_background and colors.none or colors.bg })
   add_hl("NormalFloat", { fg = colors.fg, bg = colors.bg_dark })
-  add_hl("Cursor", { fg = colors.bg, bg = colors.purple })
+  add_hl("Cursor", { fg = colors.bg, bg = colors.yellow })
   add_hl("CursorLine", { bg = colors.bg_highlight })
   add_hl("CursorColumn", { bg = colors.bg_highlight })
   add_hl("ColorColumn", { bg = colors.bg_highlight })
